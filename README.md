@@ -42,7 +42,7 @@ The **Automated Car Catalog System** built on **ServiceNow** addresses these iss
 ---
 
 ## Project Demonstration Video
-🎥 [Watch the Demo Video]([https://drive.google.com/your-demo-video-link](https://drive.google.com/file/d/1MU8tBLWapfUkNRgkNxxxBdCfrQ7w1oq0/view?usp=sharing))
+🎥 [Watch the Demo Video](https://drive.google.com/file/d/1MU8tBLWapfUkNRgkNxxxBdCfrQ7w1oq0/view?usp=sharing)
 
 ---
 
